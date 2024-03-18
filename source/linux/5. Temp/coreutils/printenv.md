@@ -1,0 +1,2 @@
+printenv HOME
+printenv USER
