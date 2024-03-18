@@ -118,7 +118,6 @@ sudo pro attach <token>
 - GNU Screen
 - GNU Wget
 - https://github.com/certbot/certbot
-- https://github.com/cli/cli
 - https://github.com/curl/curl
 - https://github.com/FFmpeg/FFmpeg
 - https://github.com/htop-dev/htop
