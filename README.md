@@ -1,8 +1,8 @@
 # Linux
 
 
-https://github.com/hcodes/yaspeller
-https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
+- https://github.com/hcodes/yaspeller
+- https://marketplace.visualstudio.com/items?itemName=lextudio.restructuredtext
 
 
 Эффективно сможет работать с Linux вообще и на сервере в частности только тот, кто освоил принципы работы в командной строке. Поэтому программы с GUI старайся в большей мере не использовать.
@@ -36,29 +36,29 @@ $ reboot
 `<Ctrl> + <Alt> + <Del>` - перезагрузка компьютера из консольного режима
 
 
+Computer Science
+Docs as Code
 Dynamic Host Configuration Protocol
+Everything as Code
 Fast Ethernet
 Gigabit Ethernet
-Docs as Code
-Everything as Code
-Initial ramdisk04-temp
-SIGTERM
-SOHO (бизнес)
-Small office/home office
-Softlanding Linux System
-Super (клавиша)
-SysRq
-Computer Science
-Trivial File Transfer Protocol
-UNIX
-Universally unique identifier
-Usenet
-Windows (клавиша)
 https://dns.yandex.ru/
 https://ifconfig.co/
 https://writethedocs.org/
+Initial ramdisk04-temp
 reStructuredText
 root
+SIGTERM
+Small office/home office
+Softlanding Linux System
+SOHO (бизнес)
+Super (клавиша)
+SysRq
+Trivial File Transfer Protocol
+Universally unique identifier
+UNIX
+Usenet
+Windows (клавиша)
 Аптайм
 Витая пара
 Выключение вычислительной системы

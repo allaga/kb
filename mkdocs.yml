@@ -1,3 +1,26 @@
 docs_dir: content
-site_dir: build
+
+edit_uri: edit/main/content/
+
+plugins:
+  - search
+
+remote_branch: gh-pages
+remote_name: origin
+
+repo_name: GitHub
+repo_url: https://github.com/allaga/kb/
+
+site_author: allaga
+site_description: This is a simple knowledge base that contains information on various topics.
+site_dir: public
 site_name: Knowledge Base
+site_url: https://kb.allaga.ru/
+
+strict: true
+
+use_directory_urls: false
+
+theme:
+  locale: en
+  name: material
