@@ -1,9 +1,33 @@
 copyright: |
-  &copy; 2024 <a href="https://allaga.ru/" target="_blank" rel="noopener">allaga</a>
+  &copy; allaga.ru, 2014 - 2024
 
 docs_dir: content
 
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/allaga/
+
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/
+
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/
+
+    - icon: fontawesome/solid/globe
+      link: https://allaga.ru/
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@allaga.ru
+
+extra_css:
+  - stylesheets/extra.css
+
 edit_uri: edit/main/content/
+
+markdown_extensions:
+  - toc:
+      toc_depth: 0
 
 plugins:
   - search:
@@ -12,7 +36,7 @@ plugins:
 remote_branch: gh-pages
 remote_name: origin
 
-repo_name: GitHub
+repo_name: allaga/kb
 repo_url: https://github.com/allaga/kb/
 
 site_author: allaga
@@ -26,5 +50,11 @@ strict: true
 use_directory_urls: false
 
 theme:
-  locale: en
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+
+    - toc.integrate
+  language: en
   name: material
