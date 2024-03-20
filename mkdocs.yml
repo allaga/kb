@@ -1,9 +1,13 @@
+copyright: |
+  &copy; 2024 <a href="https://allaga.ru/" target="_blank" rel="noopener">allaga</a>
+
 docs_dir: content
 
 edit_uri: edit/main/content/
 
 plugins:
-  - search
+  - search:
+      lang: en
 
 remote_branch: gh-pages
 remote_name: origin
