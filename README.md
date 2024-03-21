@@ -117,12 +117,12 @@ sudo pro attach <token>
 # Command Line Interface
 - GNU Screen
 - GNU Wget
+- Midnight Commander
+- https://github.com/FFmpeg/FFmpeg
 - https://github.com/certbot/certbot
 - https://github.com/curl/curl
-- https://github.com/FFmpeg/FFmpeg
 - https://github.com/htop-dev/htop
 - https://github.com/rakshasa/rtorrent
-- Midnight Commander
 
 # Graphical User Interface
 - Chrome

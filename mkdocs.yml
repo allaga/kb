@@ -1,8 +1,11 @@
+# Foobar
 copyright: |
   &copy; allaga.ru, 2014 - 2024
 
+# Foobar
 docs_dir: content
 
+# Foobar
 extra:
   social:
     - icon: fontawesome/brands/github
@@ -20,41 +23,52 @@ extra:
     - icon: fontawesome/solid/envelope
       link: mailto:info@allaga.ru
 
-extra_css:
-  - stylesheets/extra.css
-
-edit_uri: edit/main/content/
-
-markdown_extensions:
-  - toc:
-      toc_depth: 0
-
+# Foobar
 plugins:
   - search:
       lang: en
 
+# Foobar
 remote_branch: gh-pages
 remote_name: origin
 
+# Foobar
+edit_uri: edit/main/content/
 repo_name: allaga/kb
 repo_url: https://github.com/allaga/kb/
 
+# Foobar
 site_author: allaga
 site_description: This is a simple knowledge base that contains information on various topics.
 site_dir: public
 site_name: Knowledge Base
 site_url: https://kb.allaga.ru/
 
+# Foobar
 strict: true
 
+# Foobar
 use_directory_urls: false
 
+# Foobar
+extra_css:
+  - assets/stylesheets/extra.css
+
 theme:
+  # custom_dir: overrides
   features:
     - navigation.indexes
     - navigation.instant
     - navigation.tabs
-
-    - toc.integrate
   language: en
   name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode
