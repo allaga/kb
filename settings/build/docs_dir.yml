@@ -1,0 +1,4 @@
+INHERIT: copyright.yml
+
+# Foobar
+docs_dir: content

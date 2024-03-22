@@ -1,0 +1,4 @@
+INHERIT: site_author.yml
+
+# Foobar
+site_description: This is a simple knowledge base that contains information on various topics.

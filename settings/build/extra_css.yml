@@ -1,0 +1,4 @@
+INHERIT: docs_dir.yml
+
+extra_css:
+  - assets/stylesheets/extra.css

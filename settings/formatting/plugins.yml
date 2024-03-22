@@ -1,0 +1,6 @@
+INHERIT: git.yml
+
+# Foobar
+plugins:
+  - search:
+      lang: en

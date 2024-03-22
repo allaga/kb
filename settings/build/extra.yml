@@ -1,0 +1,20 @@
+# foobar
+INHERIT: extra_css.yml
+
+#foobar
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/allaga/
+
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/
+
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/
+
+    - icon: fontawesome/solid/globe
+      link: https://allaga.ru/
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@allaga.ru
