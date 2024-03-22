@@ -1,4 +1,0 @@
-INHERIT: theme.yml
-
-# Foobar
-use_directory_urls: true

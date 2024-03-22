@@ -1,8 +1,9 @@
-INHERIT: strict.yml
+# foobar
+INHERIT: site_dir.yml
 
-# Foobar
+# foobar
 theme:
-  custom_dir: overrides
+  custom_dir: themes/overrides
   features:
     - navigation.indexes
     - navigation.instant

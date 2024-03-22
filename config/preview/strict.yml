@@ -1,0 +1,5 @@
+# foobar
+INHERIT: ../information/site_url.yml
+
+# foobar
+strict: true

@@ -1,0 +1,5 @@
+# foobar
+INHERIT: site_description.yml
+
+# foobar
+site_name: Knowledge Base

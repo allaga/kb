@@ -1,3 +1,2 @@
-INHERIT: settings/use_directory_urls.yml
-
-site_name: Knowledge Base
+#foobar
+INHERIT: config/merge.yml

@@ -1,0 +1,5 @@
+# foobar
+INHERIT: edit_uri.yml
+
+# foobar
+remote_branch: gh-pages

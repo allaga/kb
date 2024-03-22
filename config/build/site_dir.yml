@@ -1,0 +1,5 @@
+# foobar
+INHERIT: extra.yml
+
+# foobar
+site_dir: public

@@ -1,0 +1,5 @@
+# foobar
+INHERIT: remote_name.yml
+
+# foobar
+repo_name: allaga/kb

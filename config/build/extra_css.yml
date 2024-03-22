@@ -1,4 +1,6 @@
+# foobar
 INHERIT: docs_dir.yml
 
+# foobar
 extra_css:
   - assets/stylesheets/extra.css

@@ -1,0 +1,6 @@
+# foobar
+INHERIT: ../formatting/plugins.yml
+
+# foobar
+copyright: |
+  &copy; allaga.ru, 2014 - 2024

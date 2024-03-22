@@ -1,0 +1,7 @@
+# foobar
+INHERIT: ../build/theme.yml
+
+# foobar
+plugins:
+  - search:
+      lang: en
