@@ -1,5 +1,5 @@
-# foobar
+# Inheritance
 INHERIT: site_author.yml
 
-# foobar
+# Set the website's description.
 site_description: This is a simple knowledge base that contains information on various topics.

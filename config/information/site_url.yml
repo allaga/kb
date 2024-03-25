@@ -1,5 +1,5 @@
-# foobar
+# Inheritance
 INHERIT: site_name.yml
 
-# foobar
+# Set the canonical URL of the site.
 site_url: https://kb.allaga.ru/

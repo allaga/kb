@@ -1,5 +1,5 @@
-# foobar
+# Inheritance
 INHERIT: repo_url.yml
 
-# foobar
+# Set the author's name.
 site_author: allaga

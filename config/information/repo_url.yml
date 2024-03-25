@@ -1,5 +1,5 @@
-# foobar
+# Inheritance
 INHERIT: repo_name.yml
 
-# foobar
+# When set, it provides a link to your repository on each page.
 repo_url: https://github.com/allaga/kb/

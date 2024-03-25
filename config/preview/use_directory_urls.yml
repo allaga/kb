@@ -1,5 +1,5 @@
-# foobar
+# Inheritance
 INHERIT: strict.yml
 
-# foobar
+# This setting determines the style used for links to pages within your documentation.
 use_directory_urls: true

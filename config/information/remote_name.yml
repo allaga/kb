@@ -1,5 +1,5 @@
-# foobar
+# Inheritance
 INHERIT: remote_branch.yml
 
-# foobar
+# Set the remote name for pushing to when using "gh-deploy" to deploy to GitHub Pages.
 remote_name: origin

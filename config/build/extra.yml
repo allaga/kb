@@ -1,7 +1,7 @@
-# foobar
+# Inheritance
 INHERIT: extra_css.yml
 
-#foobar
+# A set of key-value pairs where the values are any YAML construct that is valid.
 extra:
   social:
     - icon: fontawesome/brands/github

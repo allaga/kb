@@ -1,2 +1,2 @@
-#foobar
-INHERIT: config/merge.yml
+# Inheritance
+INHERIT: config/config.yml

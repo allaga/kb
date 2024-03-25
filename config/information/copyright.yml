@@ -1,6 +1,6 @@
-# foobar
+# Inheritance
 INHERIT: ../formatting/plugins.yml
 
-# foobar
+# Set the copyright information that will be included in the theme documentation.
 copyright: |
   &copy; allaga.ru, 2014 - 2024

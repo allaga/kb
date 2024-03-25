@@ -1,7 +1,7 @@
-# foobar
+# Inheritance
 INHERIT: site_dir.yml
 
-# foobar
+# Sets the theme and theme specific configuration of your documentation site.
 theme:
   custom_dir: themes/overrides
   features:

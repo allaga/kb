@@ -1,5 +1,5 @@
-# foobar
+# Inheritance
 INHERIT: extra.yml
 
-# foobar
+# The directory where the HTML output and other files will be generated.
 site_dir: public
