@@ -1,3 +1,9 @@
+/* Comment */
 .md-grid {
-    max-width: 1400px;
+    max-width: 1250px;
+}
+
+/* Comment */
+[data-md-type="toc"] {
+    display:none !important;
 }

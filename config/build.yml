@@ -11,4 +11,4 @@ site_dir: public/
 strict: true
 
 # This setting determines the style used for links to pages within your documentation.
-use_directory_urls: true
+use_directory_urls: false
