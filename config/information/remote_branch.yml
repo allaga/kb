@@ -1,5 +1,0 @@
-# Inheritance
-INHERIT: edit_uri.yml
-
-# Set the remote branch for commits when deploying to GitHub Pages using "gh-deploy".
-remote_branch: gh-pages

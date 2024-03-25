@@ -1,0 +1,44 @@
+# Inheritance
+INHERIT: git.yml
+
+# A set of key-value pairs where the values are any YAML construct that is valid.
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/allaga/
+
+    - icon: fontawesome/brands/docker
+      link: https://hub.docker.com/
+
+    - icon: fontawesome/brands/python
+      link: https://pypi.org/
+
+    - icon: fontawesome/solid/globe
+      link: https://allaga.ru/
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@allaga.ru
+
+# Set a list of CSS files to be included in the theme (relative to the "docs_dir").
+extra_css:
+  - assets/stylesheets/extra.css
+
+# Sets the theme and theme specific configuration of your documentation site.
+theme:
+  custom_dir: themes/overrides/
+  features:
+    - navigation.indexes
+    - navigation.instant
+    - navigation.tabs
+  language: en
+  name: material
+  palette:
+    - scheme: default
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to dark mode
+
+    - scheme: slate
+      toggle:
+        icon: material/weather-night
+        name: Switch to light mode

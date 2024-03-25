@@ -1,0 +1,17 @@
+# Inheritance
+INHERIT: build.yml
+
+# Set the copyright information that will be included in the theme documentation.
+copyright: © allaga.ru, 2014 - 2024
+
+# Set the author's name.
+site_author: allaga
+
+# Set the website's description.
+site_description: This is a simple knowledge base that contains information on various topics.
+
+# This is a mandatory setting and should be a string used as the main title in the project documentation.
+site_name: Knowledge Base
+
+# Set the canonical URL of the site.
+site_url: https://kb.allaga.ru/

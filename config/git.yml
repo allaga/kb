@@ -1,0 +1,17 @@
+# Inheritance
+INHERIT: details.yml
+
+# When set, and if your theme supports it, it provides a link directly to the source code repository.
+edit_uri: edit/main/content/
+
+# Set the remote branch for commits when deploying to GitHub Pages using "gh-deploy".
+remote_branch: gh-pages
+
+# Set the remote name for pushing to when using "gh-deploy" to deploy to GitHub Pages.
+remote_name: origin
+
+# When set, this option provides a name for the link to your repository on each page.
+repo_name: allaga/kb
+
+# When set, it provides a link to your repository on each page.
+repo_url: https://github.com/allaga/kb/

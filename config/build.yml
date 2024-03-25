@@ -1,0 +1,14 @@
+# Inheritance
+INHERIT: addons.yml
+
+# The directory with the source Markdown files for the documentation.
+docs_dir: content/
+
+# The directory where the HTML output and other files will be generated.
+site_dir: public/
+
+# Determines how warnings are handled.
+strict: true
+
+# This setting determines the style used for links to pages within your documentation.
+use_directory_urls: true

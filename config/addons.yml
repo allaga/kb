@@ -1,0 +1,9 @@
+# A list of Python scripts (relative to "mkdocs.yml"), which are loaded and used as plugin instances.
+hooks:
+  - hooks/mv_cname.py
+  - hooks/mv_robots.py
+
+# A list of plugins, each with optional configuration options for customizing the site.
+plugins:
+  - search:
+      lang: en

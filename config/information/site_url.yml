@@ -1,5 +1,0 @@
-# Inheritance
-INHERIT: site_name.yml
-
-# Set the canonical URL of the site.
-site_url: https://kb.allaga.ru/

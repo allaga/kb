@@ -1,5 +1,0 @@
-# Inheritance
-INHERIT: remote_name.yml
-
-# When set, this option provides a name for the link to your repository on each page.
-repo_name: allaga/kb

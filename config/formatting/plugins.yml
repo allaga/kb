@@ -1,7 +1,0 @@
-# Inheritance
-INHERIT: ../build/theme.yml
-
-# A list of plugins, each with optional configuration options for customizing the site.
-plugins:
-  - search:
-      lang: en

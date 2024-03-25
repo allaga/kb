@@ -1,5 +1,0 @@
-# Inheritance
-INHERIT: site_description.yml
-
-# This is a mandatory setting and should be a string used as the main title in the project documentation.
-site_name: Knowledge Base

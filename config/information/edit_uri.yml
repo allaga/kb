@@ -1,5 +1,0 @@
-# Inheritance
-INHERIT: copyright.yml
-
-# When set, and if your theme supports it, it provides a link directly to the source code repository.
-edit_uri: edit/main/content/

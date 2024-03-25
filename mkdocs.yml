@@ -1,2 +1,2 @@
 # Inheritance
-INHERIT: config/config.yml
+INHERIT: config/view.yml
