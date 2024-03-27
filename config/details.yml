@@ -4,6 +4,20 @@ INHERIT: build.yml
 # Set the copyright information that will be included in the theme documentation.
 copyright: © allaga.ru, 2014 - 2024
 
+# A set of key-value pairs where the values are any YAML construct that is valid.
+extra:
+  homepage: https://kb.allaga.ru/
+
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/allaga/
+
+    - icon: fontawesome/solid/globe
+      link: https://allaga.ru/
+
+    - icon: fontawesome/solid/envelope
+      link: mailto:info@allaga.ru
+
 # Set the author's name.
 site_author: allaga
 

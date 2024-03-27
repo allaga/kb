@@ -45,6 +45,8 @@ Gigabit Ethernet
 https://dns.yandex.ru/
 https://ifconfig.co/
 https://writethedocs.org/
+https://fonts.google.com/
+https://fontawesome.com/
 Initial ramdisk04-temp
 reStructuredText
 root
