@@ -1,7 +1,7 @@
 # Inheritance
-INHERIT: git.yml
+INHERIT: plugins.yml
 
-# Sets the theme and theme specific configuration of your documentation site.
+# Sets the theme and specific configuration for your documentation site.
 theme:
   custom_dir: themes/
 

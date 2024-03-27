@@ -1,0 +1,3 @@
+# CNAME
+
+# kb.allaga.ru

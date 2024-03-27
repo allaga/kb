@@ -1,7 +1,9 @@
 # Inheritance
-INHERIT: details.yml
+INHERIT: git.yml
 
 # A list of plugins, each with optional configuration options for customizing the site.
 plugins:
   - search:
       lang: en
+
+# markdown_extensions
