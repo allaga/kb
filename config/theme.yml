@@ -3,7 +3,7 @@ INHERIT: git.yml
 
 # Sets the theme and theme specific configuration of your documentation site.
 theme:
-  custom_dir: templates/
+  custom_dir: themes/
 
   # favicon: fontawesome/solid/database1
 

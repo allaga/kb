@@ -1,6 +1,0 @@
-# Inheritance
-INHERIT: addons.yml
-
-# Set a list of CSS files to be included in the theme (relative to the "docs_dir").
-extra_css:
-  - ../assets/stylesheets/extra.css
