@@ -1,9 +1,11 @@
 # Inheritance
 INHERIT: git.yml
 
+# This setting allows you to enable a list of additional extensions beyond those that MkDocs uses by default.
+markdown_extensions:
+  - smarty
+
 # A list of plugins, each with optional configuration options for customizing the site.
 plugins:
   - search:
       lang: en
-
-# markdown_extensions

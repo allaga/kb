@@ -1,9 +1,12 @@
 # Inheritance
 INHERIT: plugins.yml
 
+# Set a list of CSS files to be included in the theme (relative to the "docs_dir").
+extra_css: ./assets/stylesheets/extra.css
+
 # Sets the theme and specific configuration for your documentation site.
 theme:
-  custom_dir: themes/
+  custom_dir: ./themes/
 
   # favicon: fontawesome/solid/database1
 

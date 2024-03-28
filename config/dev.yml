@@ -1,0 +1,10 @@
+# Inheritance
+INHERIT: details.yml
+
+# Determines the address used when running "mkdocs serve".
+dev_addr: '127.0.0.1:8000'
+
+# Determines additional directories to watch when running "mkdocs serve".
+watch:
+  - ./config/
+  - ./themes/

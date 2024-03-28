@@ -42,25 +42,25 @@ Dynamic Host Configuration Protocol
 Everything as Code
 Fast Ethernet
 Gigabit Ethernet
-https://dns.yandex.ru/
-https://ifconfig.co/
-https://writethedocs.org/
-https://fonts.google.com/
-https://fontawesome.com/
-Initial ramdisk04-temp
-reStructuredText
-root
+Initial ramdisk
 SIGTERM
+SOHO (бизнес)
 Small office/home office
 Softlanding Linux System
-SOHO (бизнес)
 Super (клавиша)
 SysRq
 Trivial File Transfer Protocol
-Universally unique identifier
 UNIX
+Universally unique identifier
 Usenet
 Windows (клавиша)
+https://dns.yandex.ru/
+https://fontawesome.com/
+https://fonts.google.com/
+https://ifconfig.co/
+https://tinkercad.com/
+https://writethedocs.org/
+root
 Аптайм
 Витая пара
 Выключение вычислительной системы
